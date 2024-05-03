@@ -1,0 +1,36 @@
+body{background-image:url() ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,h2,p{text-align: center;}
+
+h1,h2{font-family: 'Times New Roman', Times, serif;}
+
+.menu{width: 50%;
+margin-left: auto;
+margin-right: auto;
+background-color: burlywood;
+padding: 20px;
+max-width: 500xp;}
+
+.item p{display: inline-block;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.flavor,.desserts{text-align: left;
+    margin-left: 15%;
+width:75%;}
+
+.price{text-align: right;
+    display
+width:70%;}
+
+.established{font-style: italic;}
+
+hr{height: 3px;
+background-color: brown;
+border-color: green;}
+
+a{color:black;
+a:hover{color:blueviolet}}
